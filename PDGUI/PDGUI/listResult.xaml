@@ -1,0 +1,30 @@
+﻿<Window x:Class="PDGUI.listResult"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PDGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Loaded="Window_Loaded" Height="460" Width="800" MinHeight="460" MaxHeight="460" MinWidth="800" MaxWidth="800"
+		WindowStartupLocation="CenterScreen">
+    <Grid Width="800" Height="450" MinWidth="800" MaxWidth="800" MinHeight="450" MaxHeight="450">
+        <Grid>
+            <ScrollViewer Margin="418,126,83,93">
+                <TextBlock x:Name="cluster2TxtBlock" TextWrapping="Wrap" Height="240" Width="280" Background="#FFE9FDFD" FontWeight="Bold" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Disabled"/>
+            </ScrollViewer>
+            <ScrollViewer Margin="57,126,444,93">
+                <TextBlock x:Name="cluster1TxtBlock" TextWrapping="Wrap" Height="240" Width="280" Background="#FFE9FDFD" FontWeight="Bold" ScrollViewer.CanContentScroll="True"/>
+            </ScrollViewer>
+        </Grid>
+
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="-188,96,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="LIST" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FF81B9B9" Height="60" Width="800" FontSize="36" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"/>
+        <Label x:Name="label_Copy" Content="Cluster #1" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FF81B9B9" Height="41" Width="188" FontSize="16" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Margin="108,71,0,0"/>
+        <Label x:Name="label_Copy1" Content="Cluster #2" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FF81B9B9" Height="41" Width="188" FontSize="16" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Margin="465,71,0,0"/>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="1024,229,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Back" Content="BACK" HorizontalAlignment="Left" Margin="19,377,0,0" VerticalAlignment="Top" Height="37" Width="81" Background="#FF81B9B9" FontWeight="Bold" Click="Back_Click"/>
+
+    </Grid>
+</Window>
+
+	

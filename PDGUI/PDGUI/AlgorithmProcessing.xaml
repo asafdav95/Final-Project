@@ -1,0 +1,79 @@
+﻿<Window x:Class="PDGUI.AlgorithmProcessing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PDGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Loaded="Window_Loaded" Height="460" Width="800" MinHeight="460" MaxHeight="460" MinWidth="800" MaxWidth="800"
+		WindowStartupLocation="CenterScreen">
+    <Grid Width="800" Height="460" MinWidth="800" MaxWidth="800" MinHeight="460" MaxHeight="460">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid Margin="0,60,0,19">
+            <TextBlock x:Name="arrow1" Text="➔" FontSize="48" FontWeight="Bold" Margin="227,33,519,242" />
+            <TextBox x:Name="stage_preProc" Margin="98,29,0,0" Text="Pre-Processing Data" TextWrapping="Wrap" Width="99" Height="68" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFB1F0F0"/>
+                        <GradientStop Color="#FF81B9B9" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox x:Name="stage_token" Margin="325,29,0,0" Text="Tokenizing" TextWrapping="Wrap" Width="99" Height="68" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFB1F0F0"/>
+                        <GradientStop Color="#FF81B9B9" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox x:Name="stage_embed" Margin="567,29,0,0" Text="Embedding" TextWrapping="Wrap" Width="99" Height="68" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFB1F0F0"/>
+                        <GradientStop Color="#FF81B9B9" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox x:Name="stage_RCNNA" Margin="98,132,0,0" Text="RCNNA" TextWrapping="Wrap" Width="99" Height="69" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFB1F0F0"/>
+                        <GradientStop Color="#FF81B9B9" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox x:Name="stage_DTW" Margin="325,132,0,0" Text="DTW Matrix" TextWrapping="Wrap" Width="99" Height="69" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFB1F0F0"/>
+                        <GradientStop Color="#FF81B9B9" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox x:Name="stage_Isolated" Margin="567,132,0,0" Text="Isolated Forest" TextWrapping="Wrap" Width="99" Height="69" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFB1F0F0"/>
+                        <GradientStop Color="#FF81B9B9" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <TextBlock x:Name="arrow2" Text="➔" FontSize="48" FontWeight="Bold" Margin="460,33,286,242" />
+            <TextBlock x:Name="arrow4" Text="➔" FontSize="48" FontWeight="Bold" Margin="227,131,519,144" />
+            <TextBlock x:Name="arrow5" Text="➔" FontSize="48" FontWeight="Bold" Margin="460,131,286,144" />
+            <TextBlock x:Name="arrow3" Text="➔" FontSize="48" FontWeight="Bold" Margin="678,33,68,242" />
+        </Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="-188,96,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="Process" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FF81B9B9" Height="60" Width="800" FontSize="36" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"/>
+        <Button x:Name="Next" Content="NEXT" HorizontalAlignment="Left" Margin="670,369,0,0" VerticalAlignment="Top" Height="37" Width="81" Background="#FF81B9B9" FontWeight="Bold" Click="Next_Click"/>
+        <Button x:Name="Back" Content="BACK" HorizontalAlignment="Left" Margin="49,369,0,0" VerticalAlignment="Top" Height="37" Width="81" Background="#FF81B9B9" FontWeight="Bold" Click="Back_Click"/>
+        <Button x:Name="Run" Content="RUN" HorizontalAlignment="Center" Margin="0,369,0,0" VerticalAlignment="Top" Height="37" Width="184" Background="#FF81B984" FontWeight="Bold" Click="Run_ClickedAsync"/>
+        <ProgressBar x:Name="progress" HorizontalAlignment="Center" Height="13" Margin="0,335,0,0" VerticalAlignment="Top" Width="702"/>
+
+    </Grid>
+</Window>
+
+	

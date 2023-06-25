@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PDGUI": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "python": "\"C:\\Program Files\\JetBrains\\PyCharm Community Edition 2020.2\\bin\\pycharm64.exe\""
+      }
+    }
+  }
+}

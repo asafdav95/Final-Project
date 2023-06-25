@@ -1,0 +1,56 @@
+C:\Users\arnso\source\repos\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.exe
+C:\Users\arnso\source\repos\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.deps.json
+C:\Users\arnso\source\repos\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.runtimeconfig.json
+C:\Users\arnso\source\repos\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.runtimeconfig.dev.json
+C:\Users\arnso\source\repos\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.dll
+C:\Users\arnso\source\repos\PDGUI\PDGUI\bin\Debug\net5.0-windows\ref\PDGUI.dll
+C:\Users\arnso\source\repos\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.pdb
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.csproj.AssemblyReference.cache
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\AlgorithmProcessing.g.cs
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\listResult.g.cs
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\result.g.cs
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI_MarkupCompile.cache
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI_MarkupCompile.lref
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\AlgorithmProcessing.baml
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\listResult.baml
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\result.baml
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.g.resources
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.AssemblyInfoInputs.cache
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.AssemblyInfo.cs
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.csproj.CoreCompileInputs.cache
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.dll
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\ref\PDGUI.dll
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.pdb
+C:\Users\arnso\source\repos\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.genruntimeconfig.cache
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.exe
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.deps.json
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.runtimeconfig.json
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.runtimeconfig.dev.json
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.dll
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\bin\Debug\net5.0-windows\ref\PDGUI.dll
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\bin\Debug\net5.0-windows\PDGUI.pdb
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.csproj.ResolveComReference.cache
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\AlgorithmProcessing.g.cs
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\listResult.g.cs
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\result.g.cs
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI_MarkupCompile.cache
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI_MarkupCompile.lref
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\AlgorithmProcessing.baml
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\listResult.baml
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\result.baml
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.g.resources
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.AssemblyInfoInputs.cache
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.AssemblyInfo.cs
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.csproj.CoreCompileInputs.cache
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.dll
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\ref\PDGUI.dll
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.pdb
+C:\Users\arnso\Documents\School\School\Semester 8\Final Project B\PDGUI\PDGUI\PDGUI\obj\Debug\net5.0-windows\PDGUI.genruntimeconfig.cache
